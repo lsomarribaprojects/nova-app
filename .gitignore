@@ -1,0 +1,9 @@
+# Secretos y entorno local (auditoria de seguridad 2026-10)
+.env*
+!.env.example
+!.env.local.example
+.mcp.json
+
+# Dependencias y build
+node_modules/
+.next/
